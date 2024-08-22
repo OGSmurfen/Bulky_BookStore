@@ -1,4 +1,4 @@
- - Basic fundamentals of ASP NET MVC Core (.NET 8)
+ - ASP.NET MVC Core (.NET 8)
  - Identity Framework
  - Sessions
  - Authentication and Authorization
